@@ -1,0 +1,10 @@
+.DS_Store
+.next
+.vscode
+out/
+node_modules
+yarn.lock
+package-lock.json
+.vercel
+.env.local
+.well-known/pki-validation
